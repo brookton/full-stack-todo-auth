@@ -2,9 +2,9 @@
 
 # React Front End & Rails Backend
 
-## :cowboy_hat_face: Demo
-
 ![Alt text](./screenshot.gif?raw=true "Todo App Screenshot")
+
+## :cowboy_hat_face: Demo
 
 * [Click here for the FUN deployed demo!](https://fun-react-todo-auth.firebaseapp.com)
 * [Click here for the REGULAR deployed demo!](https://react-todo-auth.firebaseapp.com)
