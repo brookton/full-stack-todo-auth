@@ -1,0 +1,130 @@
+.todo-card{
+  background:
+    linear-gradient(
+      rgba(207, 207, 207, 0.56),
+      rgba(207, 207, 207, 0.56)
+    ),
+    url('https://media.giphy.com/media/l4KihuqeuJEi9qLSM/giphy.gif') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+html, body {
+    cursor: url("http://www.rw-designer.com/cursor-view/104385.png"), auto;
+    /* just change the cursor.ico path to your location */
+}
+
+html{
+  background: url('https://media.giphy.com/media/3ohryjxaPaKOD04AZG/giphy.gif' )no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 150%;
+}
+
+body{
+    background: url('https://media.giphy.com/media/P7De1qUo7Z25W/giphy.gif') no-repeat center right 10%;
+    background-size: auto 50%;
+}
+
+.modal-main{
+  background:
+    linear-gradient(
+      rgba(207, 207, 207, 0.4),
+      rgba(207, 207, 207, 0.4)
+    ),
+    url('https://media.giphy.com/media/3b6pYadlJLyDe/giphy.gif') no-repeat center center!important;
+}
+
+
+#shrek {
+  width: 12%;
+  position: absolute;
+  top: 80%;
+  right: 10%;
+}
+
+#bmo {
+  width: 10%;
+  position: absolute;
+  bottom: 80%;
+  left: 10%;
+}
+
+#snail {
+  width: 4%;
+  position: absolute;
+  top: 0%;
+  right: 8%;
+}
+
+#fin {
+  width: 10%;
+  position: absolute;
+  bottom: 0%;
+  left: 50%;
+}
+#author, a {
+  position: absolute;
+  top: 90%;
+  right: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: white;
+  font-weight: bold;
+}
+
+#magicarp {
+  position: absolute;
+  image: repeat;
+  width: 10%;
+  right: 5%;
+}
+
+#charazard{
+  position: absolute;
+  image: repeat;
+  width: 25%;
+  left: 5%;
+}
+
+#gengar{
+  position: absolute;
+  image: repeat;
+  width: 20%;
+  top: 50%;
+  left: 5%;
+}
+
+#oddish {
+  position: absolute;
+  image: repeat;
+  width: 10%;
+  right: 5%;
+  top: 60%;
+}
+
+#llama {
+  position: absolute;
+  image: repeat;
+  width: 10%;
+  right: 5%;
+  top: 45%;
+}
+
+#britney {
+  position: absolute;
+  image: repeat;
+  width: 10%;
+  left: 4%;
+  top: 22%;
+}
+
+#internetcat {
+  width: 25%;
+  position: absolute;
+  bottom: 10%;
+  left: 5%;
+}

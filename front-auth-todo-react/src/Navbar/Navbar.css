@@ -1,0 +1,50 @@
+nav {
+  position: fixed;
+  top: 1rem;
+  width: 100%;
+  z-index: 90;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 1rem;
+  overflow: hidden;
+  background-color: transparent;
+}
+
+li {
+  float: left;
+  border: 1px white;
+  display: inline;
+  /* padding-top: 8rem; */
+  margin: 1rem 0.5rem
+}
+
+li a {
+  display: inline;
+  color: grey;
+  text-align: center;
+  padding: 1rem;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.containers {
+  position: relative;
+  top: 10rem
+}
+
+.get-started{
+  margin: 3rem 13rem 1rem 13rem;
+  font-size: 18px;
+}
+
+.log-out {
+  position: fixed;
+  right: 10px;
+  top: 5px
+}

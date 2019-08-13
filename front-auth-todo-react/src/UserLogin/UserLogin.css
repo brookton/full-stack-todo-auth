@@ -1,0 +1,46 @@
+.user-search {
+  font-family: 'Roboto', sans-serif;
+  margin-top: 2rem;
+  margin-bottom: -0.75rem;
+}
+
+.instructions {
+  font-size: 14px;
+  font-weight: lighter;
+  text-align: center;
+  margin-top: 0rem;
+  margin-bottom: 1.25rem;
+  color: rgb(108, 108, 108)
+}
+
+.email-input {
+  text-align: center;
+  max-width: 110px;
+}
+
+.password-input {
+  margin-left: 0.5rem;
+  max-width: 110px;
+  text-align: center;
+}
+
+.button-login {
+  margin-left: 0.5rem;
+}
+
+#form {
+  text-align: center;
+}
+
+#error {
+  text-align: center;
+  color: red;
+  font-size: 11px;
+  margin-top: 0.75rem;
+  margin-bottom: -1.25rem;
+  font-weight: lighter;
+}
+
+.create-act {
+  margin-top: 2rem
+}
