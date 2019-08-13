@@ -9,7 +9,7 @@
 
 # React Front End & Rails Backend
 
-A complex full stack CRUD & RESTful todo list using Auth. Allows users to login, keep track of todos, mark todos as completed and create / read / update & delete their todo items. Built with `create-react-app` and Rails 5. Deployments to Heroku and Firebase. Data from the API allows you to click and explore more information about Rick and Morty characters.
+A complex full stack CRUD & RESTful todo list using Auth. Allows users to login, keep track of todos, mark todos as completed and create / read / update & delete their todo items. Built with `create-react-app` and Rails 5. Deployments to Heroku and Firebase.
 
 This app demonstrates knowledge of:
 
